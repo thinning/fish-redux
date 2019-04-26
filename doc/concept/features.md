@@ -1,3 +1,10 @@
+<!--
+ * @Author: zhengyuan
+ * @LastEditors: zhengyuan
+ * @Description: file content
+ * @Date: 2019-04-25 17:28:15
+ * @LastEditTime: 2019-04-26 10:22:06
+ -->
 # Features
 
 ## 直接使用 flutter 会面临的问题？
@@ -51,3 +58,10 @@
 ## 统一的编程模型和规范
 
 > [directory](directory.md)
+
+---
+<div style="width:100%;height:40px;">
+    <a style="width:33%;float:left;" href="./evolution-of-fish-redux.md">演进</a>
+    <a style="width:33%;float:left;text-align:center;" href="./features.md">特性</a>
+    <a style="width:33%;float:left;text-align:right;" href="./Redux-cn.md">Redux</a>
+</div>

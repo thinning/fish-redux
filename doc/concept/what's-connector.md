@@ -1,3 +1,10 @@
+<!--
+ * @Author: zhengyuan
+ * @LastEditors: zhengyuan
+ * @Description: file content
+ * @Date: 2019-04-25 17:28:15
+ * @LastEditTime: 2019-04-26 10:15:13
+ -->
 # What's connector
 
 在解答 connector 是什么之前，我们来先看一个代码片段
@@ -50,3 +57,10 @@ nextState[key] = nextStateForKey;
 2. Get & Set 的能力，即为 Connector 的概念。
 
 有了 以上两点，我们才完全集成了 Redux 的所有精华，同时将它的设计更上一个通用的维度。
+
+---
+<div style="width:100%;height:40px;">
+    <a style="width:33%;float:left;" href="./What's-adapter.md">What's-adapter</a>
+    <a style="width:33%;float:left;text-align:center;" href="./What's-connector.md">What's-connector</a>
+    <a style="width:33%;float:left;text-align:right;" href="./Mechanism-cn.md">Mechanism</a>
+</div>

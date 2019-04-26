@@ -1,3 +1,10 @@
+<!--
+ * @Author: zhengyuan
+ * @LastEditors: zhengyuan
+ * @Description: file content
+ * @Date: 2019-04-25 17:28:15
+ * @LastEditTime: 2019-04-26 10:25:00
+ -->
 # Page
 
 -   一个页面内都有且仅有一个 Store
@@ -20,3 +27,9 @@ class HelloWordPage extends Page<String, String> {
 
 HelloWordPage().buildPage('world')
 ```
+---
+<div style="width:100%;height:40px;">
+    <a style="width:33%;float:left;" href="./Widget-Wrapper-cn.md">WidgetWrapper</a>
+    <a style="width:33%;float:left;text-align:center;" href="./Page-cn.md">Page</a>
+    <a style="width:33%;float:left;text-align:right;" href="./Adapter-cn.md">Adapter</a>
+</div>

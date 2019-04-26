@@ -1,3 +1,10 @@
+<!--
+ * @Author: zhengyuan
+ * @LastEditors: zhengyuan
+ * @Description: file content
+ * @Date: 2019-04-25 17:28:15
+ * @LastEditTime: 2019-04-26 09:54:40
+ -->
 # Effect
 
 -   Effect 是一个处理所有副作用的函数。它接收下面的参数
@@ -67,3 +74,9 @@ class MessageComponent extends Component<String> {
         );
 }
 ```
+---
+<div style="width:100%;height:40px;">
+    <a style="width:33%;float:left;" href="./Reducer-cn.1.md">Reducer</a>
+    <a style="width:33%;float:left;text-align:center;" href="./Effect-cn.md">Effect</a>
+    <a style="width:33%;float:left;text-align:right;" href="./Higher-Effect-cn.md">HigherEffect</a>
+</div>

@@ -1,3 +1,10 @@
+<!--
+ * @Author: zhengyuan
+ * @LastEditors: zhengyuan
+ * @Description: file content
+ * @Date: 2019-04-25 17:28:15
+ * @LastEditTime: 2019-04-26 10:20:25
+ -->
 # 简介
 
 Fish Redux 是一个基于 Redux 数据管理的组装式 flutter 应用框架， 它特别适用于构建中大型的复杂应用。
@@ -9,3 +16,10 @@ Fish Redux 是一个基于 Redux 数据管理的组装式 flutter 应用框架�
 所以它会非常干净，易维护，易协作。
 
 Fish Redux 的灵感主要来自于 Redux， Elm， Dva 这样的优秀框架。而 Fish Redux 站在巨人的肩膀上，将集中，分治，复用，隔离做的更进一步。
+
+---
+<div style="width:100%;height:40px;">
+    <a style="width:33%;float:left;" href="../concept/Mechanism-cn.md">Mechanism</a>
+    <a style="width:33%;float:left;text-align:center;" href="./README-cn.md">关于</a>
+    <a style="width:33%;float:left;text-align:right;" href="../concept/evolution-of-fish-redux.md">演进</a>
+</div>

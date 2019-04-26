@@ -1,3 +1,10 @@
+<!--
+ * @Author: zhengyuan
+ * @LastEditors: zhengyuan
+ * @Description: file content
+ * @Date: 2019-04-25 17:28:15
+ * @LastEditTime: 2019-04-26 10:15:38
+ -->
 # Communication Mechanism
 
 ## 页面内通信
@@ -37,3 +44,10 @@ Self-First-Broadcast。
 -   扁平化通知到所有组件，组件通过 shouldUpdate 确定自己是否需要刷新
 
 ![image.png | left | 747x336](https://cdn.nlark.com/lark/0/2018/png/82574/1545386773247-2eddfa99-e6b9-4be9-ac43-d1944ff44e9b.png)
+
+---
+<div style="width:100%;height:40px;">
+    <a style="width:33%;float:left;" href="./What's-connector.md">What's-connector</a>
+    <a style="width:33%;float:left;text-align:center;" href="./Mechanism-cn.md">Mechanism</a>
+    <a style="width:33%;float:left;text-align:right;" href="./Directory-cn.md">Directory</a>
+</div>

@@ -1,3 +1,10 @@
+<!--
+ * @Author: zhengyuan
+ * @LastEditors: zhengyuan
+ * @Description: file content
+ * @Date: 2019-04-25 17:28:15
+ * @LastEditTime: 2019-04-26 10:05:02
+ -->
 # Dependencies
 
 -   Dependencies 是一个表达组件之间依赖关系的结构。它接收两个字段
@@ -48,3 +55,10 @@ Widget buildItemView(ItemState state, Dispatch dispatch, ViewService service) {
       appBar: AppbarPreferSize(child: service.buildComponent('appBar')));
 }
 ```
+
+---
+<div style="width:100%;height:40px;">
+    <a style="width:33%;float:left;" href="./Lifecycle-cn.md">Lifecycle</a>
+    <a style="width:33%;float:left;text-align:center;" href="./Dependencies-cn.md">Dependencies</a>
+    <a style="width:33%;float:left;text-align:right;" href="./Dependent-cn.md">Dependent</a>
+</div>

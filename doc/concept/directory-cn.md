@@ -1,3 +1,10 @@
+<!--
+ * @Author: zhengyuan
+ * @LastEditors: zhengyuan
+ * @Description: file content
+ * @Date: 2019-04-25 17:28:15
+ * @LastEditTime: 2019-04-26 10:17:12
+ -->
 # Directory
 
 推荐的目录结构会是这样
@@ -21,3 +28,10 @@ sample_page
 ```
 
 上层负责组装，下层负责实现。
+
+---
+<div style="width:100%;height:40px;">
+    <a style="width:33%;float:left;" href="./What's-connector.md">What's-connector</a>
+    <a style="width:33%;float:left;text-align:center;" href="./Mechanism-cn.md">Mechanism</a>
+    <a style="width:33%;float:left;text-align:right;" href="../introduction/README-cn.md">关于</a>
+</div>

@@ -10,3 +10,9 @@ Widget repaintBoundaryWrapper(Widget widget) {
   return RepaintBoundary(child: widget);
 }
 ```
+---
+<div style="width:100%;height:40px;">
+    <a style="width:33%;float:left;" href="./OOP-cn.md">OOP</a>
+    <a style="width:33%;float:left;text-align:center;" href="./Widget-Wrapper-cn.md">WidgetWrapper</a>
+    <a style="width:33%;float:left;text-align:right;" href="./Page-cn.md">Page</a>
+</div>

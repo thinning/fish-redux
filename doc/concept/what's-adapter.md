@@ -1,3 +1,10 @@
+<!--
+ * @Author: zhengyuan
+ * @LastEditors: zhengyuan
+ * @Description: file content
+ * @Date: 2019-04-25 17:28:15
+ * @LastEditTime: 2019-04-26 10:14:23
+ -->
 # What's adapter
 
 面向 ListView 场景的分治设计 Adapter。
@@ -24,3 +31,10 @@
 <img src="https://img.alicdn.com/tfs/TB1sXXOLQvoK1RjSZPfXXXPKFXa-1666-1104.png" width="833px" height="552px">
 
 <img src="https://img.alicdn.com/tfs/TB10lxHLMDqK1RjSZSyXXaxEVXa-1838-1024.png" width="919px" height="512px">
+
+---
+<div style="width:100%;height:40px;">
+    <a style="width:33%;float:left;" href="./what's-the-diiference-cn.md">What's the difference between 'Fish Redux' and 'Redux' ?</a>
+    <a style="width:33%;float:left;text-align:center;" href="./What's-adapter.md">What's-adapter</a>
+    <a style="width:33%;float:left;text-align:right;" href="./What's-connector.md">What's-connector</a>
+</div>

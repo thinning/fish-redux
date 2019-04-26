@@ -1,3 +1,10 @@
+<!--
+ * @Author: zhengyuan
+ * @LastEditors: zhengyuan
+ * @Description: file content
+ * @Date: 2019-04-25 17:28:15
+ * @LastEditTime: 2019-04-26 09:51:29
+ -->
 # Component
 
 组件是对视图展现和逻辑功能的封装。
@@ -15,3 +22,9 @@ Component = View + Effect(可选) + Reducer(可选) + Dependencies(可选)
 
 集中：从 Store 的角度
 <img src="https://img.alicdn.com/tfs/TB1sThMJYvpK1RjSZFqXXcXUVXa-1426-762.png" width="713px" height="381px">
+---
+<div style="width:100%;height:40px;">
+    <a style="width:33%;float:left;" href="./middleware-cn.md">Middleware</a>
+    <a style="width:33%;float:left;text-align:center;" href="./Component-cn.md">Component</a>
+    <a style="width:33%;float:left;text-align:right;" href="./View-cn.md">View</a>
+</div>

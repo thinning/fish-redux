@@ -1,3 +1,10 @@
+<!--
+ * @Author: zhengyuan
+ * @LastEditors: zhengyuan
+ * @Description: file content
+ * @Date: 2019-04-25 17:28:15
+ * @LastEditTime: 2019-04-26 10:10:18
+ -->
 # StaticFlowAdapter
 
 -   模版是一个 Array，接受 Object|Map 的数据驱动。
@@ -31,4 +38,11 @@ class ItemBodyComponent extends Component<ItemBodyState> {
 
 ```
 
-<img src="https://img.alicdn.com/tfs/TB1sXXOLQvoK1RjSZPfXXXPKFXa-1666-1104.png" width="833px" height="552px">
+<img src="https://img.alicdn.com/tfs/TB1sXXOLQvoK1RjSZPfXXXPKFXa-1666-1104.png" width="833px" height="552px"/>
+
+---
+<div style="width:100%;height:40px;">
+    <a style="width:33%;float:left;" href="./Adapter-cn.md">Adapter</a>
+    <a style="width:33%;float:left;text-align:center;" href="./Static-Flow-Adapter-cn.md">StaticFlowAdapter</a>
+    <a style="width:33%;float:left;text-align:right;" href="./Dynamic-Flow-Adapter-cn.md">DynamicFlowAdapter</a>
+</div>

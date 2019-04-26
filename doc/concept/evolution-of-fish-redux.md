@@ -1,3 +1,10 @@
+<!--
+ * @Author: zhengyuan
+ * @LastEditors: zhengyuan
+ * @Description: file content
+ * @Date: 2019-04-25 17:28:15
+ * @LastEditTime: 2019-04-26 10:21:47
+ -->
 # fish-redux 的演进史
 
 fish-redux 是一个不断演进的框架，甚至是在不断的回炉重造，在这个过程中
@@ -18,3 +25,10 @@ fish-redux 是一个不断演进的框架，甚至是在不断的回炉重造，
     -   [what's-adapter](what's-adapter.md)
 
 > 目前，fish redux 已经在闲鱼线上稳定运行，未来，期待 fish redux 给社区带来更多的输入。
+
+---
+<div style="width:100%;height:40px;">
+    <a style="width:33%;float:left;" href="../introduction/README-cn.md">关于</a>
+    <a style="width:33%;float:left;text-align:center;" href="./evolution-of-fish-redux.md">演进</a>
+    <a style="width:33%;float:left;text-align:right;" href="./features.md">特性</a>
+</div>

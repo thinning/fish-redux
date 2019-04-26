@@ -1,3 +1,10 @@
+<!--
+ * @Author: zhengyuan
+ * @LastEditors: zhengyuan
+ * @Description: file content
+ * @Date: 2019-04-25 17:28:15
+ * @LastEditTime: 2019-04-26 10:24:40
+ -->
 # Action
 
 -   Action 包含两个字段
@@ -27,3 +34,10 @@ class MessageActionCreator {
     }
 }
 ```
+
+---
+<div style="width:100%;height:40px;">
+    <a style="width:33%;float:left;" href="./Redux-cn.md">Redux</a>
+    <a style="width:33%;float:left;text-align:center;" href="./Action-cn.md">Action</a>
+    <a style="width:33%;float:left;text-align:right;" href="./Connector-cn.md">Connector</a>
+</div>

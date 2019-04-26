@@ -3,7 +3,7 @@
  * @LastEditors: zhengyuan
  * @Description: file content
  * @Date: 2019-04-25 17:28:15
- * @LastEditTime: 2019-04-26 09:49:19
+ * @LastEditTime: 2019-04-26 09:53:45
  -->
 # Reducer
 
@@ -58,7 +58,7 @@ class MessageComponent extends Component<String> {
 > 推荐的是第二种写法
 ---
 <div style="width:100%;height:40px;">
-    <a style="width:33%;float:left;" href="./connector-cn.md">Connector</a>
-    <a style="width:33%;float:left;text-align:center;" href="./reducer-cn.md">Reducer</a>
-    <a style="width:33%;float:left;text-align:right;" href="./middleware-cn.md">Middleware</a>
+    <a style="width:33%;float:left;" href="./View-cn.md">View</a>
+    <a style="width:33%;float:left;text-align:center;" href="./Reducer-cn.1.md">Reducer</a>
+    <a style="width:33%;float:left;text-align:right;" href="./Effect-cn.md">Effect</a>
 </div>

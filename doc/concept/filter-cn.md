@@ -1,3 +1,10 @@
+<!--
+ * @Author: zhengyuan
+ * @LastEditors: zhengyuan
+ * @Description: file content
+ * @Date: 2019-04-25 17:28:15
+ * @LastEditTime: 2019-04-26 10:07:15
+ -->
 # Filter
 
 -   Filter 是用来优化 Reducer 的性能的。因为 Reducer 是层层组装的，所以处理每一个 Action，理论上会遍历一遍所有的小 Reducer，在一些非常复杂的场景下，这样的一次深度遍历的耗时可能会到毫秒级别（一般情况下都应该小于 1 毫秒）。那么我们需要对 Reducer 做性能优化，提前决定要不要遍历这份 Reducer 子树，减少遍历的深度和次数。
@@ -8,3 +15,9 @@ bool filter(Action action) {
     return action.type == 'some action';
 }
 ```
+---
+<div style="width:100%;height:40px;">
+    <a style="width:33%;float:left;" href="./On-Error-cn.md">OnError</a>
+    <a style="width:33%;float:left;text-align:center;" href="./Filter-cn.md">Filter</a>
+    <a style="width:33%;float:left;text-align:right;" href="./OOP-cn.md">OOP</a>
+</div>

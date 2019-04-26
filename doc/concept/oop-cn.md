@@ -1,3 +1,10 @@
+<!--
+ * @Author: zhengyuan
+ * @LastEditors: zhengyuan
+ * @Description: file content
+ * @Date: 2019-04-25 17:28:15
+ * @LastEditTime: 2019-04-26 10:07:39
+ -->
 # OOP
 
 -   虽然框架推荐使用的函数式的编程方式，也提供面向对象式的编程方式的支持。
@@ -55,3 +62,9 @@ class MessageComponent extends Component<MessageState> {
     );
 }
 ```
+---
+<div style="width:100%;height:40px;">
+    <a style="width:33%;float:left;" href="./Filter-cn.md">Filter</a>
+    <a style="width:33%;float:left;text-align:center;" href="./OOP-cn.md">OOP</a>
+    <a style="width:33%;float:left;text-align:right;" href="./Widget-Wrapper-cn.md">WidgetWrapper</a>
+</div>

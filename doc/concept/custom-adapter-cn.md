@@ -1,3 +1,10 @@
+<!--
+ * @Author: zhengyuan
+ * @LastEditors: zhengyuan
+ * @Description: file content
+ * @Date: 2019-04-25 17:28:15
+ * @LastEditTime: 2019-04-26 10:12:21
+ -->
 # CustomAdapter
 
 -   对大 Cell 的自定义实现
@@ -35,3 +42,10 @@ ListAdapter buildCommentAdapter(CommentState state, Dispatch dispatch, ViewServi
 
 ///builds
 ```
+
+---
+<div style="width:100%;height:40px;">
+    <a style="width:33%;float:left;" href="./Dynamic-Flow-Adapter-cn.md">DynamicFlowAdapter</a>
+    <a style="width:33%;float:left;text-align:center;" href="./Custom-Adapter-cn.md">CustomAdapter</a>
+    <a style="width:33%;float:left;text-align:right;" href="./what's-the-diiference-cn.md">What's the difference between 'Fish Redux' and 'Redux' ?</a>
+</div>

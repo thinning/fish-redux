@@ -1,3 +1,10 @@
+<!--
+ * @Author: zhengyuan
+ * @LastEditors: zhengyuan
+ * @Description: file content
+ * @Date: 2019-04-25 17:28:15
+ * @LastEditTime: 2019-04-26 09:53:19
+ -->
 # View
 
 -   View 是一个输出 Widget 的上下文无关的函数。它接收下面的参数
@@ -33,3 +40,9 @@ class MessageComponent extends Component<String> {
         );
 }
 ```
+---
+<div style="width:100%;height:40px;">
+    <a style="width:33%;float:left;" href="./Component-cn.md">Component</a>
+    <a style="width:33%;float:left;text-align:center;" href="./View-cn.md">View</a>
+    <a style="width:33%;float:left;text-align:right;" href="./Reducer-cn.1.md">Reducer</a>
+</div>

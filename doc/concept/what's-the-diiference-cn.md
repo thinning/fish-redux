@@ -1,3 +1,10 @@
+<!--
+ * @Author: zhengyuan
+ * @LastEditors: zhengyuan
+ * @Description: file content
+ * @Date: 2019-04-25 17:28:15
+ * @LastEditTime: 2019-04-26 10:13:49
+ -->
 # What's different with Redux ?
 
 ## 它们是解决不同层面问题的两个框架
@@ -27,3 +34,10 @@
 > 通过上层抽象，我们得到了逻辑上的 ScrollView，性能上的 ListView。
 
 <img src="https://img.alicdn.com/tfs/TB1x51VJ7PoK1RjSZKbXXX1IXXa-1852-612.png" width="617px" height="204px">
+
+---
+<div style="width:100%;height:40px;">
+    <a style="width:33%;float:left;" href="./Custom-Adapter-cn.md">CustomAdapter</a>
+    <a style="width:33%;float:left;text-align:center;" href="./what's-the-diiference-cn.md">What's the difference between 'Fish Redux' and 'Redux' ?</a>
+    <a style="width:33%;float:left;text-align:right;" href="./What's-adapter.md">What's-adapter</a>
+</div>
