@@ -1,10 +1,3 @@
-<!--
- * @Author: zhengyuan
- * @LastEditors: zhengyuan
- * @Description: file content
- * @Date: 2019-04-25 17:28:15
- * @LastEditTime: 2019-04-26 10:15:38
- -->
 # Communication Mechanism
 
 ## 页面内通信

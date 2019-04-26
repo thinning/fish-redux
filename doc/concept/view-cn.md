@@ -1,10 +1,3 @@
-<!--
- * @Author: zhengyuan
- * @LastEditors: zhengyuan
- * @Description: file content
- * @Date: 2019-04-25 17:28:15
- * @LastEditTime: 2019-04-26 09:53:19
- -->
 # View
 
 -   View 是一个输出 Widget 的上下文无关的函数。它接收下面的参数

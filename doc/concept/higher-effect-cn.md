@@ -1,10 +1,3 @@
-<!--
- * @Author: zhengyuan
- * @LastEditors: zhengyuan
- * @Description: file content
- * @Date: 2019-04-25 17:28:15
- * @LastEditTime: 2019-04-26 09:55:31
- -->
 # HigherEffect
 
 -   由于 Effect 有可能有自己一些临时状态（尽管不建议这么做，但还是提供了支持），为了支持这个特性，我们将 Effect 提升为高阶函数，将它的状态放在闭包里。

@@ -1,10 +1,3 @@
-<!--
- * @Author: zhengyuan
- * @LastEditors: zhengyuan
- * @Description: file content
- * @Date: 2019-04-25 17:28:15
- * @LastEditTime: 2019-04-26 10:10:18
- -->
 # StaticFlowAdapter
 
 -   模版是一个 Array，接受 Object|Map 的数据驱动。

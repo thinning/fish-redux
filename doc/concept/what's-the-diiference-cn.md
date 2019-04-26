@@ -1,10 +1,3 @@
-<!--
- * @Author: zhengyuan
- * @LastEditors: zhengyuan
- * @Description: file content
- * @Date: 2019-04-25 17:28:15
- * @LastEditTime: 2019-04-26 10:13:49
- -->
 # What's different with Redux ?
 
 ## 它们是解决不同层面问题的两个框架

@@ -1,10 +1,3 @@
-<!--
- * @Author: zhengyuan
- * @LastEditors: zhengyuan
- * @Description: file content
- * @Date: 2019-04-25 17:28:15
- * @LastEditTime: 2019-04-26 09:50:46
- -->
 # Middleware
 
 关于 Middleware 的定义、签名和 ReduxJS 社区是一致的。

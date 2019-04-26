@@ -1,10 +1,3 @@
-<!--
- * @Author: zhengyuan
- * @LastEditors: zhengyuan
- * @Description: file content
- * @Date: 2019-04-25 17:28:15
- * @LastEditTime: 2019-04-26 10:06:21
- -->
 # ShouldUpdate
 
 -   当数据发生变更，Store 扁平化地通知所有组件

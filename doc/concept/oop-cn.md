@@ -1,10 +1,3 @@
-<!--
- * @Author: zhengyuan
- * @LastEditors: zhengyuan
- * @Description: file content
- * @Date: 2019-04-25 17:28:15
- * @LastEditTime: 2019-04-26 10:07:39
- -->
 # OOP
 
 -   虽然框架推荐使用的函数式的编程方式，也提供面向对象式的编程方式的支持。

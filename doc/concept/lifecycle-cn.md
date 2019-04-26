@@ -1,10 +1,3 @@
-<!--
- * @Author: zhengyuan
- * @LastEditors: zhengyuan
- * @Description: file content
- * @Date: 2019-04-25 17:28:15
- * @LastEditTime: 2019-04-26 09:56:02
- -->
 # Lifecycle
 
 -   默认的所有生命周期，本质上都来自于 flutter State<StatefulWidget> 中的生命周期。

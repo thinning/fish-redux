@@ -1,10 +1,3 @@
-<!--
- * @Author: zhengyuan
- * @LastEditors: zhengyuan
- * @Description: file content
- * @Date: 2019-04-25 17:28:15
- * @LastEditTime: 2019-04-26 10:15:13
- -->
 # What's connector
 
 在解答 connector 是什么之前，我们来先看一个代码片段

@@ -1,10 +1,3 @@
-<!--
- * @Author: zhengyuan
- * @LastEditors: zhengyuan
- * @Description: file content
- * @Date: 2019-04-25 17:28:15
- * @LastEditTime: 2019-04-26 10:10:44
- -->
 # DynamicFlowAdapter
 
 -   模版是一个 Map，接受一个数组类型的数据驱动

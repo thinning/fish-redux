@@ -1,10 +1,3 @@
-<!--
- * @Author: zhengyuan
- * @LastEditors: zhengyuan
- * @Description: file content
- * @Date: 2019-04-25 17:28:15
- * @LastEditTime: 2019-04-26 10:21:47
- -->
 # fish-redux 的演进史
 
 fish-redux 是一个不断演进的框架，甚至是在不断的回炉重造，在这个过程中
